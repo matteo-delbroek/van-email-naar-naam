@@ -33,7 +33,6 @@ button:hover {
     background-color: darkblue;
 }
 
-/* Aanpassingen voor kleine schermen */
 @media (max-width: 600px) {
     div {
         width: 100%;
@@ -44,4 +43,3 @@ button:hover {
         font-size: 18px;
     }
 }
-
